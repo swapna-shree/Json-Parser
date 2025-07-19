@@ -15,7 +15,7 @@ Live Demo: [https://jsonparser-jprsr.netlify.app](https://jsonparser-jprsr.netli
 ---
 
 ## Tech Stack
-- Frontend: React, Vite
+- Frontend:Javascript, Vite
 - Styling: CSS
 - Deployment: Netlify
 
